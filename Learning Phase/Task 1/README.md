@@ -3,9 +3,9 @@
 
 **AIM: To understand Database Schema**
 **Task Assigned: Create a Logical Database Schema for an Expense Manager Application. List all entities and their corresponding attributes relate these attributes in a diagrammatical form.**
-<br /><br />
+<br />
 
-*Tool Used:* dbdiagram.io
+*Tool Used:* dbdiagram.io <br />
 *Concepts Understood:* <br /> a) Create a Logical Database Schema <br />
                         b) Datatypes of SQL <br />
                         c) Primary and Foriegn Key <br />
