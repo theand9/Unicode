@@ -11,6 +11,6 @@
                         c) Primary and Foriegn Key <br />
                         d) Relations and Cardinality <br />
                         e) Constraints (Not Null, Unique) <br />
-*Web Link:* https://dbdiagram.io/d/5d924727ff5115114db4c54d <br />
+- *Web Link:* https://dbdiagram.io/d/5d924727ff5115114db4c54d <br />
 
 -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
