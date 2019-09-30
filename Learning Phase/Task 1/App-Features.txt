@@ -1,0 +1,24 @@
+Features that can be included in the app in order to improve its functionality and viability are:
+a] Functionality Aspect
+    1) Categorization of Expenses. Eg. Food, Travel, Books etc
+    2) Total Monthly Budgeting
+    3) Savings and goal tracking
+    4) Spending pattern tracker
+    5) Data logging with options for pictures of bills and receipts
+    6) Connection with digital wallet for a wider range of tracking
+    7) Insights on places where money could be saved with alerts(point 4)
+    8) Login for user(obvious)
+    9) OPTIONAL: Student Loan tracker and amount of money to be saved to clear out the debt
+
+b] Design Aspect:
+    1) Card like interface
+    2) Dashboard and Graphs showing expenses for an intuitive experience
+    3) Flexibility of customizing graphs. User can customize graphs according to his/her choice
+    4) On Demand Reports and Insights of spending pattern
+
+c] Security Aspect:
+    1) User is not allowed to use common passwords. https://en.wikipedia.org/wiki/Wikipedia:10,000_most_common_passwords or their username, email address, phone number, date of birth. (https://raw.githubusercontent.com/danielmiessler/SecLists/master/Passwords/Common-Credentials/10-million-password-list-top-1000000.txt  -> this would be super overkill)
+    2) 2 Step Verification is optional
+    3) Encryption of user data and
+
+https://dbdiagram.io/d/5d924727ff5115114db4c54d

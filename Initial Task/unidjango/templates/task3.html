@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+
+<body>
+    <table border="3" style="padding: 10px">
+        <th>Mission ID</th>
+        <th>Flight Number</th>
+        <th>Launch Date and Time</th>
+        <th>Rocket Manufacturer</th>
+
+        {% for i in launch_Data %}
+
+        <tr>
+            <td style="padding: 5px;text-align: center">{{i.mission_id}}</td>
+            <td style="padding: 5px;text-align: center">{{i.flight_number}}</td>
+            <td style="padding: 5px;text-align: center">{{i.launch_date_local}}</td>
+            <td style="padding: 5px;text-align: center">{{i.rocket}}</td>
+        </tr>
+
+        {% endfor %}
+
+    </table>
+</body>
+
+</html>
