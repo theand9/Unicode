@@ -5,8 +5,8 @@
 **Task Assigned: Create a Logical Database Schema for an Expense Manager Application. List all entities and their corresponding attributes relate these attributes in a diagrammatical form.**
 <br />
 
-*Tool Used:* dbdiagram.io <br />
-- *Concepts Understood:* <br /> a) Create a Logical Database Schema <br />
+-*Tool Used:* dbdiagram.io <br />
+-*Concepts Understood:* <br /> a) Create a Logical Database Schema <br />
                         b) Datatypes of SQL <br />
                         c) Primary and Foriegn Key <br />
                         d) Relations and Cardinality <br />
