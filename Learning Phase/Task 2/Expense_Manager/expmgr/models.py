@@ -7,7 +7,7 @@ import uuid
 class loginDetails(models.Model):
     SAP_ID = models.IntegerField(primary_key=True)
     Password = models.CharField(max_length=100, unique=True)
-    Two_Step = models.BooleanField(default=0)
+    Two_Step = models.BooleanField(default=False)
 
     def ___str___(self):
         return "SAP_ID: {}".format(self.SAP_ID)
