@@ -101,4 +101,4 @@ class Expenses(models.Model):
     Notes = models.TextField(blank=True, null=True)
 
     def ___str___(self):
-        return "SAP ID: {}, Expense ID: {}, Expense Name: {}, Price: {}, Expense Date: {}, Category: {}, Payment Mode: {}".format(self.SAP_ID, self.Expense_Id, self.Expense_Name, self.Price, self.Expense_Date, self.Category, self.Payment_Mode)
+        return "SAP ID: {}, Expense ID: {}, Price: {}, Expense Date: {}, Category: {}, Payment Mode: {}".format(self.SAP_ID, self.Expense_Id, self.Price, self.Expense_Date, self.Category, self.Payment_Mode)
